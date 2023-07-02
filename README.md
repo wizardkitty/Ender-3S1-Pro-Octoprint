@@ -1,3 +1,13 @@
+# Ender 3 S1 Pro/Plus Octoprint Firmware
+Hi, this firmware is optimized to Enhance Octoprint functionality with the S1 Pro and Plus.
+This is still a WIP firmware and currently needs to be built manually. I will look at uploading compiled firmware at somepoint.
+
+The issue with the S1 Pro and Plus is the Touchscreen but this firmware tries to allow octoprint todo anything needed AND recieve all info needed to work in most situations. HOST_ACTIONS has been enabled for this purpose and HOST_PROMPT_SUPPORT also has been enabled.
+
+I will attempt to merge changes done by the community as long as they further the goal of making the S1 Pro and Plus work better and more coopertivly with octoprint.
+
+This firmware currently does not require any reflashing of the touchscreen.
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
